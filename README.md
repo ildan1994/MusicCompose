@@ -1,1 +1,1 @@
-music player using jetpack compose and exoplayer
+simple music player using jetpack compose and exoplayer
